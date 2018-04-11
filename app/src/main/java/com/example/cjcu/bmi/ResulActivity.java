@@ -11,6 +11,6 @@ class ResultActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_resul);
 
-        Intent intent = getIntent();
+        Intent intent = getIntent(); //
     }
 }
