@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BMI.iml" filepath="$PROJECT_DIR$/BMI.iml" />
+      <module fileurl="file://E:\BMI0328\BMI.iml" filepath="E:\BMI0328\BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BMI0328.iml" filepath="$PROJECT_DIR$/BMI0328.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\BMI0328\app\app.iml" filepath="E:\BMI0328\app\app.iml" />
     </modules>
   </component>
 </project>
